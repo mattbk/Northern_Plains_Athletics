@@ -38,7 +38,7 @@ features[] = secondary_menu
 
 settings[color_scheme] = Color
 
-settings[breadcrumbs]  = 1
+settings[breadcrumbs]  = 0
 settings[social_links]  = 1
 settings[twitter_url] = "https://twitter.com/shanidkv"
 settings[facebook_url] = "https://www.facebook.com/zymphonies"
