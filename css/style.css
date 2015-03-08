@@ -791,6 +791,7 @@ body.sidebar-second #sidebar-second {
   overflow: hidden;
   font-size: 16px;
   line-height: 150%;
+  background-color: #F4F4F4;
 }
 
 .region-front-welcome .block h2{
