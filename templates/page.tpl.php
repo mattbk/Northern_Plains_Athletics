@@ -121,7 +121,7 @@
 
  
   <?php print render($page['slideshow']); ?>
-hello
+
   <?php print render($page['front_welcome']); ?>  
          
   <?php if ($page['top_first'] || $page['top_second'] || $page['top_third']): ?> 
@@ -154,7 +154,8 @@ hello
           <section id="post-content" role="main">
             <?php print $messages; ?>
             <?php print render($title_prefix); ?>
-            <?php if ($title): ?><h1 class="page-title"><?php print $title; ?></h1><?php endif; ?>
+            <?php if ($title): ?><h1 class="page-title"><?php print $title; ?> <a href="https://twitter.com/share" class="twitter-share-button" data-via="nplainsathletes">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></h1><?php endif; ?>
             <?php print render($title_suffix); ?>
             <?php if (!empty($tabs['#primary'])): ?><div class="tabs-wrapper"><?php print render($tabs); ?></div><?php endif; ?>
             <?php print render($page['help']); ?>
