@@ -1,4 +1,3 @@
-
 @import url(http://fonts.googleapis.com/css?family=Raleway);
 
 /* --------------------------------------------- 
@@ -1373,13 +1372,13 @@ ol.search-results { padding-left: 0; }
 
 .top_right ul.menu li a.active{ color: #6CDCFF; }
 
-#top-area {
+#-area {
   clear: both;
   position: relative;
   margin: 0 auto;
   text-align: center;
-  background: #76ACFC;
-  color: white;
+//  background: #76ACFC;
+//  color: white;
 }
 
 #top-area .block {
@@ -1408,7 +1407,7 @@ ol.search-results { padding-left: 0; }
   margin: 0;
 }
 
-#top-area p{ color: #fff; }
+//#top-area p{ color: #fff; }
 
 #top-area .column .content{
   padding: 10px 0;
@@ -1418,9 +1417,9 @@ ol.search-results { padding-left: 0; }
   margin-left:0;
 }
 
-#top-area .column-title {
-  color:#e0e0e0;
-}
+//#top-area .column-title {
+//  color:#e0e0e0;
+//}
 
 #footer {
   padding: 1% 2% 2% 2%;
