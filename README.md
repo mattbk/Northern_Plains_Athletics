@@ -3,3 +3,5 @@ An endurance event finder at http://northernplainsathletics.com.  This GitHub pr
 
 ## Contributing
 See http://northernplainsathletics.com/about for things you can do to help out.
+
+[![Gratipay User](https://img.shields.io/gratipay/user/mattbk.svg)]()
